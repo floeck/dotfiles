@@ -1,8 +1,8 @@
 # Install Fira-Code Font
-
-brew tap homebrew/cask-fonts
+<code>
+brew tap homebrew/cask-fonts <br />
 brew cask install font-fira-code
-
+</code>
 # Install zsh syntax highlighting & pure prompt
 
 cd ~ && mkdir .zsh
@@ -22,4 +22,4 @@ Preferences -> floeck.sublime-settings
 
 # Some brew packages I use
 
-brew install wget, tree, python, java
+brew install python, java, wget, tree, nmap
