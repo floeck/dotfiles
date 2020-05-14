@@ -3,7 +3,7 @@
 These are the fonts I use for almost all coding related programs.
 It's open-source, looks great and also supports ligatures.
 
-@see<https://github.com/tonsky/FiraCode>
+You can find them <a href="https://github.com/tonsky/FiraCode">here.</a>
 
 <code>brew tap homebrew/cask-fonts</code> <br />
 <code>brew cask install font-fira-code</code>
