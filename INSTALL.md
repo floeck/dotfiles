@@ -19,19 +19,19 @@ In addition to zsh being my default shell, I use zsh syntax highlighting and the
 
 Then create .zshrc file and populate from 'preferences/.zshrc'
 
-<code>cd $HOME && touch .zshrc</code><br />
+<code>cd touch ../$HOME/.zshrc</code><br />
 <code>cp $HOME/git/dotfiles/preferences/.zshrc $HOME/.zshrc</code>
 
-#3. iTerm2 Preferences
+# 3. iTerm2 Preferences
 
 <code>Colours -> floeck.iterm</code><br />
 <code>Misc    -> floeck.json</code>
 
-#4. Sublime Text Preferences
+# 4. Sublime Text Preferences
 
-<code>Preferences -> floeck.sublime-settings</code> <br />  
+<code># Preferences -> floeck.sublime-settings</code> <br />  
 <code> cp $HOME/git/dotfiles/preferences/floeck.sublime-settings $HOME/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Preferences.sublime-settings</code>
 
-#5. Some brew packages I use
+# 5. Some brew packages I use
 
 <code>brew install python java wget tree nmap</code>
