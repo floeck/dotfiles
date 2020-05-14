@@ -9,7 +9,7 @@ cd ~ && mkdir .zsh
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git "$HOME/.zsh/pure"
 git clone https://github.com/sindresorhus/pure.git "$HOME/.zsh/pure"
 
-# Create .zshrc file and populate from 'preferences/.zshrc'
+-- Create .zshrc file and populate from 'preferences/.zshrc'
 
 # iTerm2 Preferences
 
@@ -19,3 +19,7 @@ Misc	-> floeck.json
 # Sublime Text Preferences
 
 Preferences -> floeck.sublime-settings  
+
+# Some brew packages I use
+
+brew install wget, tree, python, java
