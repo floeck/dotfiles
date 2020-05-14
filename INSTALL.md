@@ -1,8 +1,8 @@
 # Install Fira-Code Font
-<code>
-brew tap homebrew/cask-fonts <br />
-brew cask install font-fira-code
-</code>
+
+<code>brew tap homebrew/cask-fonts</code> <br />
+<code>brew cask install font-fira-code</code>
+
 # Install zsh syntax highlighting & pure prompt
 
 cd ~ && mkdir .zsh
