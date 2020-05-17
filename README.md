@@ -1,6 +1,8 @@
 # floeck-dotfiles
 
-![Screenshot of zsh shell](https://i.imgur.com/z7CPPbr.png)
+![Screenshot of zsh shell](https://i.imgur.com/z7CPPbr.png|width=100)
+
+![Screenshot of java in shell](https://i.imgur.com/5ahtzvx.png|width=100)
 
 Welcome to my dotfiles repo. Here you can find most settings and configuration files I use amongst other things.
 
