@@ -1,5 +1,7 @@
 # floeck-dotfiles
 
+![Screenshot of zsh shell](https://i.imgur.com/z7CPPbr.png)
+
 Welcome to my dotfiles repo. Here you can find most settings and configuration files I use amongst other things.
 
 I feel as if people use quite varied methods of storing and managing their dotfiles, and as such, I have simply provided a few commands that you may tweak to your liking for each of the settings I use.  
