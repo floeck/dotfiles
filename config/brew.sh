@@ -1,11 +1,11 @@
-# Homebrew
+# Homebrew update
 
 brew update
 brew upgrade
 
 # Install useful packages
 
-brew install vim java python wget tree
+brew install git vim java python wget tree
 
 # Install fonts
 

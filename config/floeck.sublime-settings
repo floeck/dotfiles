@@ -1,5 +1,5 @@
 {
-   "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"font_face": "Fira Code",
 	"font_size": 16,
 	"ignored_packages":
@@ -10,6 +10,6 @@
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
+	"tab_size": 4,
 	"theme": "Material-Theme-Darker.sublime-theme"
 }
-

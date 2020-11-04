@@ -3,7 +3,7 @@
 call plug#begin('~/.vim/plugged')
 
 Plug 'sheerun/vim-polyglot'
-Plug 'sainnhe/gruvbox-material'
+Plug 'morhetz/gruvbox'
 
 call plug#end()
 
@@ -28,5 +28,5 @@ if has('termguicolors')
 endif
 
 set background=dark
-let g:gruvbox_material_background = 'medium'
-colorscheme gruvbox-material
+let g:gruvbox_background = 'medium'
+colorscheme gruvbox
